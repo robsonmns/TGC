@@ -6,30 +6,51 @@
 
 # **1. COMEMORAÇÃO ESPECIAL AOS 10 ANOS DA TGC** #
 
-1.1.    - 4 estrelas no **Mural de Honrarias da TGC**;
+1.1.  - 4 estrelas no **Mural de Honrarias da TGC**;
 
-1.2.    - Pontuação para o Mundial de Pilotos 2024 TGC;
+1.2.  - Pontuação para o Mundial de Pilotos 2024 TGC;
 
-1.3.    - 1 (uma) vaga para a Copa dos Campeões (Champions Cup) 2024.
+1.3.  - 1 (uma) vaga para a Copa dos Campeões (Champions Cup) 2024.
 
 # **2. Inscrições:** #
 
-2.1.	As inscrições estarão abertas do dia 24/09/2024 até 27/09/2024 às 18h00.
+2.1. - Novas inscrições estarão abertas do dia 24/09/2024 até 27/09/2024 às 18h00.
 
-2.2.	As inscrições poderão ser encerradas antecipadamente ao critério da administração.
+2.2 - Novos participantes poderão se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Facebook ou da rede social que viu essa postagem, conforme modelo a seguir
 
-2.3.	Aqueles que se inscreverem após o encerramento das inscrições, serão colocados em cadastro reserva e poderão substituir possíveis jogadores desistentes.
-
-2.4.	CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
-
+    Exemplo:
     Apelido/Nickname: LeomarxGames
-    Número de telefone com WhatsApp: +55 11 99349-9981
-    Disponibilidade para jogar: à noite durante a semana e finais de semana a combinar com antecedência.
-    Método que utiliza para conectar: Preferencialmente Hamachi, se houver erro, poderá ser utilizado o Radmin.
+    Disponibilidade para jogar: Descrever o melhor possível. Ex.: Disponibilidade das 19 as 23h30 durante a semana e finais de semana a combinar com antecedência.
+    Método que utiliza para conectar: Preferencialmente Radmin, se houver erro, poderá ser utilizado o Hamachi.
 
-2.5.	A SNESTALGIA e a TGC, se reservam ao direito do uso de imagem dos participantes inscritos deste torneio, seja para retransmissões de partidas realizadas, bem como na divulgação de vídeos promocionais em suas redes sociais.
+2.3 - O novo modelo de inscrições de campeonatos da TGC terá também sempre uma pré-lista de inscritos já validados e de jogadores ativos da comunidade, conforme verificação dos campeonatos recentes, temos a lista a seguir:
 
-2.6.    Os participantes aqui inscritos se comprometem a cumprir todas as regras estabelecidas neste regulamento. Em caso de descumprimento, a administração analisará cada caso e tomará as medidas necessárias para o bom andamento do campeonato. 
+    01 - Alisson Paulo (Jack Maloi)
+    02 - Roberto Vasquez (The Mister)
+    03 - Marlon Reis (Lonsoldier)
+    04 - Edwin Huaylla (Ediwn HD)
+    05 - Leonardo Andrade (LeomarxGames)
+    06 - Jurandir Filho (Sr Filho)
+    07 - Rafael Lopes (Diablo)
+    08 - Robson Meireles (Rob Jax)
+    09 - Ari Jr (Arijunino)
+    10 - Jhonny (Jhonny)
+    11 - Edson Silva (Senninkage)
+    12 - Fabrício Canisso (Rannid)
+    13 - Luís Cardenas (Luís L.A.O.M)
+    14 - RonalDan (RonalDan)
+    15 - Allan Live (Allan Live)
+    16 - Javier Portillo (Javier)
+    17 - Paulo Muniz (Paulo Fox)
+    18 - Marcel Santana (MMM)
+    19 - Petter Bruno (JackPoker40)
+    20 - Luciano Alves (Luciano)
+
+2.4. Logo de seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo Link divulgado e se apresentar com o seu Nome Real + Apelido/NickName
+
+2.5. A SNESTALGIA e a TGC, se reservam ao direito do uso de imagem dos participantes inscritos deste torneio, seja para retransmissões de partidas realizadas, bem como na divulgação de vídeos promocionais em suas redes sociais.
+
+2.6. Os participantes aqui inscritos se comprometem a cumprir todas as regras estabelecidas neste regulamento. Em caso de descumprimento, a administração analisará cada caso e tomará as medidas necessárias para o bom andamento do campeonato. 
 
 # **3. Validação e Verificação de perfil dos Inscritos:** #
 
@@ -73,11 +94,13 @@
 
 5.3.	**Top Gear (E) [!].smc** = Link para download [aqui](https://www.facebook.com/groups/topgearchampionships/permalink/2319752584959355?_rdc=1&_rdr)
 
-5.4.	**Radmin para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
+5.4.  **Radmin para conexão entre os jogadores** = Link para download [aqui](https://www.radmin-vpn.com/)
+
+5.5.  **Hamachi para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
 
 # **6. Organização e Chaveamento:**
 
-6.1.	Será utilizado o CHALLONGE [link](XXXXXXXXXXX) para chaveamento das partidas do campeonato.
+6.1.	Será utilizado o CHALLONGE [link](https://challonge.com/pt_BR/SnestalgearCup2024) para chaveamento das partidas do campeonato.
 
 6.2.	Fase de grupos e Oitavas: 2 países.
 
@@ -117,19 +140,17 @@
 
 8.3.	Os jogadores podem mencionar seu oponente, marcando com @, para agendamento de sua partida. Essa menção poderá ser realizada quantas vezes o jogador quiser, mas para efeitos de regras de verificação para wo, só será considerada uma menção a cada 24 horas. Após a terceira menção do oponente (72h), sem a devida resposta, o jogador poderá reivindicar o W.O à administração.
 
-8.4.	Os participantes que não realizarem suas partidas ou agendamento delas nos prazos estabelecidos, através do grupo oficial do campeonato, receberão W.O., podendo ser substituído por jogador que estiver em cadastro de reserva ou atribuída derrota pelo placar de pontuação máxima para o adversário e mínima para quem for aplicado o W.O.
+8.4.	Os participantes que não realizarem suas partidas ou agendamento delas nos prazos estabelecidos, através do grupo oficial do campeonato, receberão W.O.
 
-8.5.	O W.O. será atribuído a favor daquele que oferecer maior tempo de disponibilidade, ou contra aquele que não comparecer no horário previamente agendado.
+8.5.	O W.O. será atribuído a favor daquele que oferecer maior tempo de disponibilidade, ou contra aquele que não comparecer no horário previamente agendado. Em casos onde houver incompatibilidade total de horários entre os participantes, na análise de W.O., será priorizado aquele que esteve mais tempo disponível após às 18h ou finais de semana
 
 8.6.	O envio de mensagens no chat do emulador estará proibido caso um dos participantes solicite no início da partida.
 
-8.7.	**É obrigatório gravar as partidas, seja pelo OBS ou Emulador, ou transmiti-las ao vivo. Jogadores que não gravarem ou transmitir suas partidas, terão seu confronto invalidado e não poderão abrir PROTOCOLO de possíveis irregularidades cometidas pelo adversário.**
+8.7.	Os resultados das partidas devem ser informados no grupo respectivo do WhatsApp que o jogador for adicionado.
 
-8.8.	Os resultados das partidas devem ser informados no grupo respectivo do WhatsApp que o jogador for adicionado.
+8.8     Os participantes poderão agendar o início de suas partidas para no máximo até 2h (duas horas) antes do encerramento do prazo estabelecido.
 
-8.9     Os participantes poderão agendar o início de suas partidas para no máximo até 2h (duas horas) antes do encerramento do prazo estabelecido.
-
-8.10    O lançamento dos resultados deverá ser realizado até às 23h do último dia do prazo, sendo a tolerância para o lançamento de até 15 min (quinze minutos).
+8.9    O lançamento dos resultados deverá ser realizado até às 23h59 do último dia do prazo, sendo a tolerância para o lançamento de até 15 min (quinze minutos).
 
 Exemplo de postagem de resultado:
 
@@ -137,7 +158,7 @@ Exemplo de postagem de resultado:
 - **@Player1 110 x 100 @Player2**
 - **Link da live ou link do arquivo da gravação.**
 
-8.9.	**Mensagens sem Relevância**: O jogador que enviar mensagens sem relevância para grupo WhatsApp do campeonato, serão advertidos pela administração. Em caso de reincidência, o jogador será REMOVIDO do grupo por 12h e adicionado novamente após esse prazo. Mesmo com a punição, o jogador tem o dever de cumprir os seus jogos previamente agendados. O jogador readmitido no grupo será eliminado do campeonato caso receba mais uma punição por descumprimento do grupo de WhatsApp.
+8.10.	**Mensagens sem Relevância**: O jogador que enviar mensagens sem relevância para grupo WhatsApp do campeonato, serão advertidos pela administração. Em caso de reincidência, o jogador será REMOVIDO do grupo por 12h e adicionado novamente após esse prazo. Mesmo com a punição, o jogador tem o dever de cumprir os seus jogos previamente agendados. O jogador readmitido no grupo será eliminado do campeonato caso receba mais uma punição por descumprimento do grupo de WhatsApp.
 
 # **9. Regras de Conduta**
 
@@ -227,10 +248,24 @@ Exemplo de postagem de resultado:
 - Caso precise corrigir alguma seleção pressione o botão "B" para retirar a última pista selecionada;
 - O Password para abrir todos os países na Rom Original é KELLSON.
 
-# **12. Situações inéditas**
+# **12. Validação das partidas** #
 
-12.1 Situações inéditas podem ocorrer e os casos não previstos aqui serão analisados pela administração no decorrer do campeonato.**
+12.1. É obrigatório gravar ou transmitir ao vivo as partidas, seja pelo OBS Studio ou Emulador.
 
-12.2 **As regras podem ser aditadas durante o campeonato, caso a administração julgue necessário para cobrir casos que não eram cobertos por essas regras buscando não prejudicar os participantes. Todas as edições após início do campeonato, serão publicadas através de ADITAMENTOS.**
+12.2. Ambos os jogadores são responsáveis pela gravação. Sugere-se que se um for fazer a transmissão que o outro grave para em caso de travamento da live a partida seja validada. 
+
+12.3. Os jogadores que não gravarem ou transmitirem suas partidas, terão seus confrontos invalidados e não poderão abrir PROTOCOLO de possíveis irregularidades cometidas pelo adversário.
+
+12.4. A resolução ideal é em HD 1280x720 (720p), porém para aqueles que não tenham um computador que consiga nesta gravar ou transmitir nessa resolução, a resolução mínima aceita será (SD) 854 x 480 (480p).
+
+12.5. O arquivo de gravação deve ser disponibilizado na nuvem e o link divulgado no grupo do WhatsApp, ou também pode ser feito o envio de arquivo de gravação diretamente no WhatsApp.
+
+12.6. Não serão aceitos resultados enviados sem o cumprimento das regras de gravação mencionadas, sendo que uma nova partida deve ser realizada ou a renúncia de derrota por W.O. por um dos participantes.
+
+# **13. Situações inéditas**
+
+13.1 Situações inéditas podem ocorrer e os casos não previstos aqui serão analisados pela administração no decorrer do campeonato.**
+
+13.2 **As regras podem ser aditadas durante o campeonato, caso a administração julgue necessário para cobrir casos que não eram cobertos por essas regras buscando não prejudicar os participantes. Todas as edições após início do campeonato, serão publicadas através de ADITAMENTOS.**
 
 # **A administração da SNESTALGIA e da TGC desejam a todos um excelente campeonato e principalmente muita diversão a todos os participantes e expectadores!!!**
