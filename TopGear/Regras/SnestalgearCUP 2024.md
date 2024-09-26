@@ -14,9 +14,9 @@
 
 # **2. Inscrições:** #
 
-2.1. - Novas inscrições estarão abertas do dia 24/09/2024 até 27/09/2024 às 18h00.
+2.1. - Novas inscrições estarão abertas do dia até 30/09/2024 às 21h00.
 
-2.2 - Novos participantes poderão se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Facebook ou da rede social que viu essa postagem, conforme modelo a seguir
+2.2 - Novos participantes poderão se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Youtube ou da rede social que viu essa postagem, conforme modelo a seguir
 
     Exemplo:
     Apelido/Nickname: LeomarxGames
@@ -68,19 +68,19 @@
 
 # **4. Cronograma (Previsão):**
 
-4.1. Prazo para confirmações e novas inscrições: 27/09/2024 às 18h00
+4.1. Prazo para confirmações e novas inscrições: 30/09/2024 às 21h00
 
 4.2. Após revisão das inscrições será feito o sorteio das pistas/países e inicia-se a Fase de Grupos
 
-4.3.	Fase de grupos terá prazo de 9 dias (até dia 06/10/2024 às 23h59).
+4.3.	Fase de grupos terá prazo de 9 dias (até dia 09/10/2024 às 23h59).
 
-4.4.	Oitavas de final terá prazo de 6 dias (até dia 12/10/2024 às 23h59)
+4.4.	Oitavas de final terá prazo de 6 dias (até dia 15/10/2024 às 23h59)
 
-4.5.	Quartas de final terá prazo de 5 dias (até dia 17/10/2024 às 23h59)
+4.5.	Quartas de final terá prazo de 5 dias (até dia 20/10/2024 às 23h59)
 
-4.6     Semifinal terá prazo de 5 dias (até 22/10/2024 às 23h59)
+4.6     Semifinal terá prazo de 5 dias (até 25/10/2024 às 23h59)
 
-4.7.	Final e Disputa do Terceiro terá prazo de 5 dias (até dia 27/10/2024 às 23h59)
+4.7.	Final e Disputa do Terceiro terá prazo de 5 dias (até dia 30/10/2024 às 23h59)
 
 4.8.    Todos os horários aqui estabelecidos, seguirão o horário oficial de Brasília/BR.
 
