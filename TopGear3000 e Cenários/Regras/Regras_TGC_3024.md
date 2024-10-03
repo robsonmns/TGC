@@ -118,12 +118,12 @@
 
 5.9. Em caso de empate nas fases finais, reinicia-se o jogo e joga-se a partir do sistema solar sorteado para o desempate:
 
-- No desempate os pilotos devem utilizar normalmente os upgrades.
+- No desempate os pilotos devem utilizar normalmente os upgrades da tabela 10.5.
 - Vencerá aquele que ao final do sistema solar sorteado tiver mais pontos que o oponente;
 - Permanecendo o empate no primeiro, reinicia-se o jogo e joga-se o sistema solar seguinte ao anterior e assim sucessivamente, até haver um vencedor;
     Se durante o desempate houver Race Over para ambos, vencerá o piloto que tiver mais pontos até pista do race over.
     Se ocorrer race over logo na primeira pista, vencerá aquele que estiver na frente, em qualquer posição, antes da tela apagar.
-    Obs.: Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate para corrigir o grid de largada corretamente. Caso não haja consenso, será o player 1, aquele que tiver terminado na frente na última pista anterior ao início do desempate.
+    Obs.: Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate para corrigir o grid de largada corretamente. Caso não haja consenso, será o player 1 saindo em 20th, aquele que tiver terminado na frente na última pista anterior ao início do desempate.
 
 5.10. A substituição de jogadores só será adimitida, caso o piloto substituto ainda possa participar da partida referente à 2ª rodada. Caso um piloto desista do campeonato após a 1ª rodada, sua pontuação será atribuída ao seu substituto. Se não houver substituto, será aplicado w.o. para as partidas restantes, com pontuação máxima para o adversário e mínima para o desistente.
 
@@ -137,7 +137,7 @@
 
 6.2. Ambos os jogadores são responsáveis pela gravação. Sugere-se que se um for fazer a transmissão que o outro grave para em caso de travamento da live a partida seja validada. 
 
-6.3. Os jogadores que não gravarem ou transmitirem suas partidas, **terão seus confrontos invalidados** e não poderão abrir PROTOCOLO de possíveis irregularidades cometidas pelo adversário.
+6.3. Os jogadores que não gravarem ou transmitirem suas partidas, **terão seus confrontos invalidados** e terão de remarcar a partida, além de não poderão abrir PROTOCOLO de possíveis irregularidades cometidas pelo adversário.
 
 6.4. A resolução ideal é em HD 1280x720 (720p), porém para aqueles que não tenham um computador que consiga nesta gravar ou transmitir nessa resolução, a resolução mínima aceita será (SD) 854 x 480 (480p).
 
@@ -201,13 +201,11 @@ Exemplo de postagem de resultado:
 
 # **9. Regras Gerais:** #
 
-9.1. Proibido o uso do freio para prejudicar o adversário de maneira proposital e desleal;
+9.1. Proibido o uso do freio ou desaceleração total para prejudicar o adversário de maneira proposital e desleal;
 
-9.2. Proibido o uso do freio ou desaceleração total para parar carro na pista antes do combustível acabar;
+9.2. Proibido o uso do freio e/ou parar o carro na pista antes do combustível acabar;
 
-9.3. Caso o jogador perca por w.o. e não apresente justificativas (regra 5.12), este será impedido de participar dos dois próximos campeonatos realizados pela Comunidade TGC (TG1, TG2 ou TG3000);
-
-9.4. As justificativas apresentadas conforme o item 9.3, serão analisadas pela ADM da TGC para decisão da punição.
+9.3. É Permitido desacelerar e/ou freiar o carro apenas nas áreas de reabastecimento vermelho (RECHARGE) ou reparo azul (REPAIR);
 
 # **10. Regras Específicas:** #
 
@@ -225,7 +223,7 @@ Exemplo de postagem de resultado:
   - Velocímetro = KPH
   - Dificuldade = **Campeão**
 
-10.4 - Criar/Editar a Copa Personalizada com os 4 planetas sorteados.
+10.4 - Criar/Editar a Copa Personalizada com as 4 pistas dos planetas sorteados.
 
 10.5 - Pré-configurar o carro conforme a orientação abaixo.
 
@@ -239,7 +237,9 @@ Exemplo de postagem de resultado:
 
 ### **Sugere-se ja baixar as imagens ou guardar esse link para facilitar a configuração dos carros.** ###
 
-10.6 - Pontuação a cada pista:
+10.6 - **As configurações acima devem ser iguais para ambos os carros. Caso necessário solicite ao oponente demonstrar que configurou corretamente.**
+
+10.7 - Pontuação a cada pista:
 
 - 1st = 10 pontos
 - 2nd = 8 pontos
@@ -250,7 +250,7 @@ Exemplo de postagem de resultado:
 - 7th = 2 pontos
 - 8th = 1 pontos
 
-10.7 - O resultado da partida será a soma dos pontos obtidos pelos jogadores em cada planeta disputado;
+10.8 - O resultado da partida será a soma dos pontos obtidos pelos jogadores em cada planeta disputado;
 
 # **11. Situações inéditas** #
 
