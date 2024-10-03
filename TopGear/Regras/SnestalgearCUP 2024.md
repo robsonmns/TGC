@@ -102,13 +102,15 @@
 
 6.1.	Será utilizado o CHALLONGE [link](https://challonge.com/pt_BR/SnestalgearCup2024) para chaveamento das partidas do campeonato.
 
-6.2.	Fase de grupos e Oitavas: 2 países.
+6.2.    Fase de Grupos com 8 cabeças de chaves, sendo os 8 mais bem colocados na tabela do Mundial de Pilotos TGC do ano.
 
-6.3.	Quartas de Final e Semifinal: 3 países.
+6.3.	A disputa na fase de grupos e Oitavas: 2 países.
 
-6.4.	Final e terceiro: 4 países.
+6.4.	Quartas de Final e Semifinal: 3 países.
 
-6.5.    Para o sorteio na fase de grupos, serão cabeça de chave, os melhores classificados no Mundial de Pilotos 2024 da TGC.
+6.5.	Final e terceiro: 4 países.
+
+6.6.    Para o sorteio na fase de grupos, serão cabeça de chave, os melhores classificados no Mundial de Pilotos 2024 da TGC.
 
 # **7. Classificação e Desempate:**
 
