@@ -1,70 +1,67 @@
 # **A COMUNIDADE TOP GEAR CHAMPIONSHIPS (TGC) APRESENTA:** #
 
-# **Campeonato La Liga XIII** #
+# **Campeonato La Liga XIV** #
 
 # **LEIA TODAS AS REGRAS COM BASTANTE ATENÇÃO!!!** #
 
 # **1. INSCRIÇÕES:** #
 
-  1.1 - As inscrições estarão abertas do dia 19/08/2024 até 23/08/2024.
+  1.1 - As inscrições estarão abertas até 21h de XX/XX/2025.
     
   1.2 - Aqueles que se inscreverem após o encerramento das inscrições, serão colocados em cadastro reserva e serão convidados para participar do La Liga Bronze caso aja desistência antes do encerramento da segunda rodada, ou seja, convidado para completar algum grupo, caso a administração decida.
 
-  1.3 - Punições da edição anterior (La Liga XII):
+  1.3 - Punições da edição anterior (La Liga XIII):
 
-  - Amélio Belchior (Amélio) não poderá participar do La Liga XIII. Em razão do excesso de W.O. no La Liga XII e como punição ficará uma edição sem poder participar, podendo voltar no La Liga XIV na Divisão Bronze.
-  - Aquino (Alexandre Aquino) não poderá participar do La Liga XIII. Em razão do excesso de W.O. no La Liga XII e como punição ficará uma edição sem poder participar, podendo voltar no La Liga XIV na Divisão Bronze.
-
-  1.3.1 - Poderão participar do La Liga XIII, se assim manifestarem o interesse, porém como não participaram da edição XII, o(s) mesmo(s) foram rebaixados podendo voltar no La Liga XIV na Divisão Bronze.
-    
-  - Max Verstappen (Tomyo Sato)
-  - Yoshimitsu (Kevin Schimidt)
-  - Dark FPC (Felipe Costa)
-  - Cecilmonk (Pedro Walter)
+  - Carlos Rubens (CRX) não poderá participar do La Liga XIV. Em razão do excesso de W.O. no La Liga XIII e como punição ficará uma edição sem poder participar, podendo voltar no La Liga XV na Divisão Bronze.
+  - Peter Bruno (JackPocker40) não poderá participar do La Liga XIV. Em razão do excesso de W.O. no La Liga XIII e como punição ficará uma edição sem poder participar, podendo voltar no La Liga XV na Divisão Bronze.
+  - Frank Piero (Frank Gear) não poderá participar do La Liga XIV. Em razão do excesso de W.O. no La Liga XIII e como punição ficará uma edição sem poder participar, podendo voltar no La Liga XV na Divisão Bronze.
 
   **Pré-inscritos, conforme resultados da edição anterior e as punições mencionadas acima:**
   
-  1.4.1 Série Ouro - Pilotos que participaram do La Liga XII e que devem manifestar o interesse em participar do La Liga XIII:
+  1.4.1 Série Ouro - Pilotos que participaram do La Liga XIII e que devem manifestar o interesse em participar do La Liga XIV:
 
-  - 1 - Rob Jax (Robson Meireles)
-  - 2 - ChitaMX (Aléxis Sánchez)
-  - 3 - Rafael Diablo (Rafael Lopes)
-  - 4 - LeNN Miner (Lenno Coelho)
-  - 5 - AriJunino (Ari Júnior)
-  - 6 - Sr. Filho (Jurandir Filho)
-  - 7 - CRX (Carlos Rubens)
-  - 8 - Gokú (Oscar Cardenhas)
-  - 9 - LAOM (Luís Cardenas)
-  - 10 - Killua Zorldic (Lucas Souza)
+   - 1 - Rob Jax (Robson Meireles)
+   - 2 - ChitaMX (Aléxis Sánchez)
+   - 3 - Rafael Diablo (Rafael Lopes)
+   - 4 - LeNN Miner (Lenno Coelho)
+   - 5 - Sr. Filho (Jurandir Filho)
+   - 6 - Gokú (Oscar Cardenhas)
+   - 7 - LAOM (Luís Cardenas)
+   - 8 - 
+   - 9 - 
+   - 10 - 
+   - The Mister (Roberto Vasquez) - 2° Prata
+   - Leomarx Games (Leonardo Marques) - 3° Prata
+   - Luciano (Luciano Alves) - 4° Prata
+     
 
-  1.5 Série Prata - Pilotos que participaram do La Liga XII e que devem manifestar o interesse em participar do La Liga XIII:
+  1.5 Série Prata - Pilotos que participaram do La Liga XIII e que devem manifestar o interesse em participar do La Liga XIV:
 
-   - 1 - Allan Live (Allan Live)
-   - 2 - Vinny (Vinícius Gustavo)
-   - 3 - Luciano (Luciano Alves)
-   - 4 - Leomarx Games (Leonardo Marques)
-   - 5 - HD Gamer (Edwin Hyrula)
-   - 6 - Pegasus (Edimar Caetano)
-   - 7 - The Mister (Roberto Vasquez)
-   - 8 - MMM (Marcel Santana)
-   - 9 - JavierVZLA (Javier Dixon)
-   - 10 - Paulo Fox (Paulo Muniz)
+   - AriJunino (Ari Júnior) - 1° Melhor Rebaixado
+   - Pegasus (Edimar Caetano) - 5° Prata
+   - Killua Zorldic (Lucas Souza) - 2° Melhor Rebaixado
+   - Paulo Fox (Paulo Muniz) - 6° Prata
+   - JavierVZLA (Javier Dixon) - 7° Prata
+   - 
+   - Jhonny (Jhonny Mota) - 1° Bronze
+   - RonalDan (Ronald Daniel) - 2° Bronze
+   - Jack Maloi (Alison Paulo) - 3° Bronze
+   - Br's Brisantt (Brisantt) - 4° Bronze
+   - MMM (Marcel Santana) - 1° Melhor Rebaixado
 
-  1.6 Série Bronze - Competidores que participaram do La Liga XII e novos membros que desejarem se inscrever no La Liga XIII, conforme a sequência:
+  1.6 Série Bronze - Competidores que participaram do La Liga XIII e novos membros que desejarem se inscrever no La Liga XIV, conforme a sequência:
 
-   - 1 - Paomarc (Paolo Paredes) 
-   - 2 - UaiLay (Laynara Souza) 
-   - 3 - Br's Brisantt (Brisantt) 
-   - 4 - Schumacher (Martins Swantaiger) 
-   - 5 - JackPocker40 (Peter Bruno) 
-   - 6 - RonalDan (Ronald Daniel) 
-   - 7 - Frank Gear (Frank Piero) 
-   - 8 - Jack Maloi (Alison Paulo) 
-   - 9 - Lonsoldier (Marlon Reis)
-   - 10 - Alaric (Emerson Eidan Enderson)
-   - 11 - Rannid (Fabrício Golçalves) 
-   - 12 - Jhonny (Jhonny Mota) 
-   - 13 - Senninkage (Edison Silva) 
+   - Irvin1988 (Irvin Delgado) - 5° Bronze
+   - Lonsoldier (Marlon Reis) - 2° Melhor Rebaixado
+   - Schumacher (Martins Swantaiger) - 6° Bronze
+   - HD Gamer (Edwin Hyrula) - 3° Melhor Rebaixado
+   - Paomarc (Paolo Paredes) - 7° Bronze
+   - Senninkage (Edison Silva) - 8° Bronze
+   - 
+   - UaiLay (Laynara Souza)
+   - Alaric (Emerson Eidan Enderson)
+   - Rannid (Fabrício Golçalves) 
+   - 13 - Novo competidor
    - 14 - Novo competidor
    - 15 - Novo competidor
   
@@ -101,29 +98,29 @@
 
 # **2. Cronograma Séries Ouro / Prata Horários de Brasília, Brasil:** #
    
-  2.1 - Prazo para confirmações e novas inscrições: até dia 23/08/2024 às 20h.
+  2.1 - Prazo para confirmações e novas inscrições: até 21h do dia XX/XX/2025.
   
   2.2 - Após revisão das inscrições será feito o sorteio das pistas/países e aberto o prazo do comissário.
   
-  2.3 - Prazo Comissário: 24/08/2024 21h.
+  2.3 - Prazo Comissário: XX/XX/2025 às 21h.
   
   2.4 - Após revisão do comissário, se não houver nenhum erro ou ausência de envio dos participantes inicia a Fase de Grupos.
   
-  2.5 - Se após advertência dos administradores o jogador não corrigir o envio dos carros até as 23h59 de 24/08/2024, os carros do piloto serão escolhidos por meio de sorteio.
+  2.5 - Se após advertência dos administradores o jogador não corrigir o envio dos carros até as 23h59 de XX/XX/2025, os carros do piloto serão escolhidos por meio de sorteio.
   
-  2.6 - Fase de Grupos terá prazo de 21 dias. Previsão de término – 14/09/2024 23h59.
+  2.6 - Fase de Grupos terá prazo de 21 dias. Previsão de término – XX/XX/2025 23h59.
   
-  2.7 - Quartas de Final: até dia 21/09/2024 às 23h59.
+  2.7 - Quartas de Final: 7 dias.
   
-  2.8 - Semifinal: até dia 28/09/2024 23h59.
+  2.8 - Semifinal: 7 dias.
   
-  2.9 - Final e Disputa de 3º: 05/10/2024 23h59
+  2.9 - Final e Disputa de 3º: 7 dias
   
   2.10 - OBSERVAÇÕES:
        
   - 2.10.1 - As rodadas podem ter um prazo estendido ou reduzidos caso a administração julgue necessário.
        
-  - 2.10.2 - Durante a fase de grupos, na primeira metade do prazo (até dia 04/09/2024), cada piloto deverá ter realizado ao menos 4 (quatro partidas) ou comprovar agendamento destas partidas com o DE ACORDO do adversário, com dia e hora marcados.
+  - 2.10.2 - Durante a fase de grupos, na primeira metade do prazo (até dia XX/XX/2025), cada piloto deverá ter realizado ao menos 4 (quatro partidas) ou comprovar agendamento destas partidas com o DE ACORDO do adversário, com dia e hora marcados.
 
   - 2.10.3 - O competidor que não cumprir o item anterior, receberá W.O na diferença das partidas não realizadas ou agendadas, através de sorteio aleatório.
        
@@ -328,7 +325,7 @@
 
 11.4.	**Radmin para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
 
-11.5. **Hamachi para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
+11.5. **Hamachi para conexão entre os jogadores** = Link para download [aqui](https://www.radmin-vpn.com)
 
 11.6 [ENVIO CARRO] = (https://www.topgearchampionships.com/comissario/comissario.html)
   
