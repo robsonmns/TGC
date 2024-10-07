@@ -52,6 +52,8 @@
 
 2.6. Os participantes aqui inscritos se comprometem a cumprir todas as regras estabelecidas neste regulamento. Em caso de descumprimento, a administração analisará cada caso e tomará as medidas necessárias para o bom andamento do campeonato. 
 
+2.7. Aqueles que se inscreverem após o encerramento das inscrições, serão colocados em cadastro reserva e poderão substituir possíveis jogadores desistentes.
+
 # **3. Validação e Verificação de perfil dos Inscritos:** #
 
 3.1.	A administração da SNESTALGIA e da TGC, na intenção de criar um campeonato com credibilidade, se reserva no direito de solicitar a qualquer momento durante a inscrição e/ou durante o campeonato, informações adicionais a qualquer um dos inscritos em seus campeonatos.
