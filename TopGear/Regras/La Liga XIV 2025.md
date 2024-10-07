@@ -27,9 +27,7 @@
    - 5 - Sr. Filho (Jurandir Filho)
    - 6 - Gokú (Oscar Cardenhas)
    - 7 - LAOM (Luís Cardenas)
-   - 8 - 
-   - 9 - 
-   - 10 - 
+   -
    - The Mister (Roberto Vasquez) - 2° Prata
    - Leomarx Games (Leonardo Marques) - 3° Prata
    - Luciano (Luciano Alves) - 4° Prata
@@ -57,7 +55,9 @@
    - HD Gamer (Edwin Hyrula) - 3° Melhor Rebaixado
    - Paomarc (Paolo Paredes) - 7° Bronze
    - Senninkage (Edison Silva) - 8° Bronze
-   - 
+   -
+   - Suprem Peruvian (Albert Matos)
+   - Camus Kshrc (Marlon Fernandes)
    - UaiLay (Laynara Souza)
    - Alaric (Emerson Eidan Enderson)
    - Rannid (Fabrício Golçalves) 
