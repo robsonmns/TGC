@@ -6,7 +6,7 @@
 
 # **1. Incrições:** #
 
-1.1 - O novo modelo de inscrições de campeonatos da TGC terá sempre uma pré-lista de inscritos já validados e ativos conforme os participantes dos campeonatos recentes. Conforme Lista a seguir:
+1.1 - O novo modelo de inscrições de campeonatos da TGC terá sempre uma pré-lista de inscritos a confirma participação e que já estão validados e ativos conforme os participantes dos campeonatos recentes. Conforme Lista a seguir:
 
   - 01 - Alisson Paulo (Jack Maloi)
   - 02 - Roberto Vasquez (The Mister)
@@ -29,14 +29,15 @@
   - 19 - Petter Bruno (JackPoker40)
   - 20 - Luciano Alves (Luciano)
 
-1.2 - Novos participantes poderão se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Facebook.
+1.2 - Novos participantes poderão se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Facebook/Youtube/Discord/Redes Sociais TGC.
 
     Exemplo:
     Apelido/Nickname: LeomarxGames
     Disponibilidade para jogar: Descrever o melhor possível. Ex.: Disponibilidade das 19 as 23h30 durante a semana e finais de semana a combinar com antecedência.
-    Método que utiliza para conectar: Preferencialmente Radmin, se houver erro, poderá ser utilizado o Hamachi.
+    COnfirmo que possuo o jogo Top Racer Collection - Plataforma Steam para participar.
+    Declaração: Declaro que estou ciente das regras aqui estabelecidas e serei automaticamente desclassificado em caso de descumprimento: ( X ) SIM ( ) NÃO. A inscrição só será efetivada caso o participante marque a opção SIM.
 
-1.3. Logo de seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo Link a ser divulgado e se apresentar com o seu Nome Real + Apelido/NickName
+1.3. Logo de seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo Link a ser divulgado e se apresentar com o seu Nome Real + Apelido/NickName + Plataforma que se inscreveu.
 
 # **2. Validação e Verificação de Perfil dos Inscritos:** #
 
@@ -48,18 +49,18 @@
 
 - Perfil de rede social com foto (Facebook/Instagram/WhatsApp/Discord/Telegram/Twitter/TikTok/Outras).
 - Vídeo chamadas por qualquer uma das redes sociais mencionadas que o participante tenha conta.
-- Detalhes técnicos e verificação do processo de conexão online (Hamachi/Radmin), compartilhando a tela. (TeamViewer/AnyDesk/Outros)
+- Detalhes técnicos e verificação do processo de conexão online, compartilhando a tela. (TeamViewer/AnyDesk/Outros)
 - Tipo de computador, fotos do modem, Empresa de internet, IP virtual, IP do roteador, VPN, etc.
 
 2.4.	O jogador inscrito tem o **direito de não fornecer as informações solicitadas**, assim como a TGC, também se reservam ao **direito de cancelar a inscrição ou remover um participante durante um campeonato**, que não concorde em providenciar as informações que lhe forem solicitadas.
 
 # **3. Itens Obrigatórios:** #
 
-3.1.  **Emulador Top Racer Collection (Steam) =** Link para compra/download [aqui](https://store.steampowered.com/app/2214000/Top_Racer_Collection/)
+3.1.  **Emulador Top Racer Collection (Plataforma Steam) =** Link para compra/download [aqui](https://store.steampowered.com/app/2214000/Top_Racer_Collection/)
 
 - Demais plataformas, como (Playstation/Xbox) não serão utilizadas porque no momento o jogo não possui rede para Crossplay Network.
 
-3.2.	**Adesão às redes sociais da comunidade Top Gear Championships** 
+3.2.	**Adesão às redes sociais da comunidade Top Gear Championships para receber as comunicações** 
 
 ### **[Facebook](https://www.facebook.com/groups/topgearchampionships)** ###
 ### **[Youtube](https://www.youtube.com/@topgearchampionships)** ###
@@ -68,13 +69,13 @@
 
 # **4. Cronograma (Previsão):** #
 
-4.1. As inscrições serão aceitas até às 21h do dia 02/08/2024;
+4.1. As inscrições serão aceitas até às 21h do dia 30/10/2024;
 
-4.2. Após confirmação das inscrições, será realizado o sorteio dos planetas e a Fase de Grupos até o dia 03/08/2024;
+4.2. Após confirmação das inscrições, será realizado o sorteio dos planetas e a Fase de Grupos até o dia 31/10/2024;
 
 4.3. A depender da quantidade de inscritos a duração da fase de grupos terá de 7 a 14 dias.
 
-4.4. Cada rodada da fase de grupos e da fase mata-mata (Oitavas, Quartas, Semifinal e Final/Disputa de 3º) terão o prazo de 5 dias, finalizando até às 23h59 do último dia de prazo (Horário de Brasília).
+4.4. Cada rodada da fase de grupos e da fase mata-mata (Oitavas, Quartas, Semifinal e Final/Disputa de 3º) terão o prazo de 6 dias, finalizando até às 23h59 do último dia de prazo (Horário de Brasília).
 
 4.5. **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário.
 
@@ -187,7 +188,7 @@ Exemplo de postagem de resultado:
 
 8.3. Outras medidas referentes a processos legais, deverão ser adotadas pelo próprio requerente. 
 
-8.4. Para protocolar a reclamação, os print’s das mensagens ou áudios (enviados no período de realização do campeonato, nas redes oficiais da TGC), devem ser encaminhados através de protocolo conforme modelo no item a seguir, pelo Facebook, no post de inscrição do campeonato com a hashtag #PROTOCOLO e deverá ser respondido pela administração em um prazo máximo de 48h úteis.
+8.4. Para protocolar a reclamação, os print’s das mensagens ou áudios (enviados no período de realização do campeonato, nas redes oficiais da TGC), devem ser encaminhados através de protocolo conforme modelo no item a seguir, pelo Facebook, no post de inscrição do campeonato com a hashtag #PROTOCOLO e deverá ser respondido pela administração em um prazo máximo de 3 dias úteis.
 
 8.5. **Modelo de protocolo:** 
 
@@ -237,7 +238,7 @@ Exemplo de postagem de resultado:
 
 ### **Sugere-se ja baixar as imagens ou guardar esse link para facilitar a configuração dos carros.** ###
 
-10.6 - **As configurações acima devem ser iguais para ambos os carros. Caso necessário solicite ao oponente demonstrar que configurou corretamente.**
+10.6 - **As configurações acima devem ser iguais para ambos os carros. O ideal é que ambos façam juntos as compras e caso necessário solicite ao seu oponente demonstrar que configurou corretamente.**
 
 10.7 - Pontuação a cada pista:
 
