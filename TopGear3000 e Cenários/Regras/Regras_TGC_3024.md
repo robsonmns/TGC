@@ -253,6 +253,13 @@ Exemplo de postagem de resultado:
 
 10.8 - O resultado da partida será a soma dos pontos obtidos pelos jogadores em cada planeta disputado;
 
+**Race Over/Game Over:**
+10.9 - Devido ao nível do jogo Championship ser elevado e os equipamentos “base” da tabela às vezes serem inferiores ao necessário para aquele país, poderá ocorrer fim jogo de forma inesperada durante uma das 4 pistas. Para contornar esse problema segue as observações: 
+
+  - **Observação 10.9A**: Se o Race Over ocorrer logo na primeira do país, poderá ser tentado jogar a mesma novamente por mais 2x. Total de 3 tentativas.
+
+  - **Observação 10.9B:** Se o Race Over ocorrer da segunda pista em diante não será permitido o load state. Deve-se considerar a pontuação de ambos obtidos antes da pista atual e segue-se para o país seguinte.
+
 # **11. Situações inéditas** #
 
 11.1. Situações inéditas podem ocorrer e os casos não previstos aqui serão analisados pela administração no decorrer do campeonato.**
