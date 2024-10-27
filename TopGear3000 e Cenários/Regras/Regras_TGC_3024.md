@@ -37,7 +37,7 @@
     COnfirmo que possuo o jogo Top Racer Collection - Plataforma Steam para participar.
     Declaração: Declaro que estou ciente das regras aqui estabelecidas e serei automaticamente desclassificado em caso de descumprimento: ( X ) SIM ( ) NÃO. A inscrição só será efetivada caso o participante marque a opção SIM.
 
-1.3. Logo de seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo Link a ser divulgado e se apresentar com o seu Nome Real + Apelido/NickName + Plataforma que se inscreveu.
+1.3. Logo em seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo Link a ser divulgado e se apresentar com o seu Nome Real + Apelido/NickName + Plataforma que se inscreveu.
 
 # **2. Validação e Verificação de Perfil dos Inscritos:** #
 
@@ -75,7 +75,7 @@
 
 4.3. A depender da quantidade de inscritos a duração da fase de grupos terá de 7 a 14 dias.
 
-4.4. Cada rodada da fase de grupos e da fase mata-mata (Oitavas, Quartas, Semifinal e Final/Disputa de 3º) terão o prazo de 6 dias, finalizando até às 23h59 do último dia de prazo (Horário de Brasília).
+4.4. As fases mata-mata (Oitavas, Quartas, Semifinal e Final/Disputa de 3º) terão o prazo de 6 dias, finalizando até às 23h59 do último dia de prazo (Horário de Brasília).
 
 4.5. **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário.
 
