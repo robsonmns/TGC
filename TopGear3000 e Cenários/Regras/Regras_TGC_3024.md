@@ -34,7 +34,7 @@
     Exemplo:
     Apelido/Nickname: LeomarxGames
     Disponibilidade para jogar: Descrever o melhor possível. Ex.: Disponibilidade das 19 as 23h30 durante a semana e finais de semana a combinar com antecedência.
-    COnfirmo que possuo o jogo Top Racer Collection - Plataforma Steam para participar.
+    Confirmo que possuo o jogo Top Racer Collection - Plataforma Steam para participar.
     Declaração: Declaro que estou ciente das regras aqui estabelecidas e serei automaticamente desclassificado em caso de descumprimento: ( X ) SIM ( ) NÃO. A inscrição só será efetivada caso o participante marque a opção SIM.
 
 1.3. Logo de seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo Link a ser divulgado e se apresentar com o seu Nome Real + Apelido/NickName + Plataforma que se inscreveu.
