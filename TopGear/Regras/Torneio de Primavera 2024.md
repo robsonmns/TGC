@@ -1,6 +1,6 @@
 # **A COMUNIDADE TOP GEAR CHAMPIONSHIPS (TGC) APRESENTA:** #
 
-# **Torneio de Inverno 2024** #
+# **Torneio de Primavera 2024** #
 
 # **LEIA TODAS AS REGRAS COM BASTANTE ATENÇÃO!!!** #
 
@@ -36,7 +36,7 @@
     Disponibilidade para jogar: Descrever o melhor possível. Ex.: Disponibilidade das 19 as 23h30 durante a semana e finais de semana a combinar com antecedência.
     Método que utiliza para conectar: Preferencialmente Radmin, se houver erro, poderá ser utilizado o Hamachi.
 
-1.3. Logo de seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo Link (Criar) e se apresentar com o seu Nome Real + Apelido/NickName
+1.3. Logo de seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo Link ([Link Aqui](https://chat.whatsapp.com/Fo3YgREF1lWL3gWPf1AefP)) e se apresentar com o seu Nome Real + Apelido/NickName
 
 # **2. Validação e Verificação de Perfil dos Inscritos:** #
 
@@ -67,17 +67,17 @@
 
 # **4. Cronograma (Previsão):** #
 
-4.1. As inscrições serão aceitas até às 21h do dia 07/07/2024;
+4.1. As inscrições serão aceitas até às 21h do dia 06/11/2024;
 
-4.2. Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos até o dia 08/07/2024;
+4.2. Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos até o dia 07/11/2024;
 
-4.3. Cada rodada da fase de grupos e da fase mata-mata (Oitavas, Quartas, Semifinal e Final/Disputa de 3º) terão o prazo de 5 dias, finalizando até às 23h59 do último dia de prazo.
+4.3. Cada rodada da fase de grupos e da fase mata-mata (Oitavas, Quartas, Semifinal e Final/Disputa de 3º) terão o prazo de 5 dias, finalizando até às 23h59 do prazo divulgado. (Horário de Brasília).
 
 4.4. **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário.
 
 # **5. Organização e Chaveamento:** #
 
-5.1. Será utilizado o CHALLONGE para chaveamento das partidas do campeonato [https://challonge.com/pt_BR/TorneioDeInverno2024](https://challonge.com/pt_BR/TorneioDeInverno2024)
+5.1. Será utilizado o CHALLONGE para chaveamento das partidas do campeonato [https://challonge.com/pt_BR/TorneioDePrimavera2024](https://challonge.com/pt_BR/TorneioDePrimavera2024)
 
 5.2. O campeonato terá uma fase de grupos no modelo suíço e os melhores colocados avançam para as próximas fases de jogo único.
 
@@ -94,7 +94,7 @@
 - Confronto direto;
 - Sorteio;
 
-5.4. **É obrigatório o uso do carro BRANCO** e o nível do jogo será o CHAMPIONSHIP.
+5.4. **É obrigatório o uso do carro ROXO** e o nível do jogo será o CHAMPIONSHIP.
 
 5.5. Não há limite para a quantidade de participantes e serão classificados para a fase final a quantidade de jogadores a seguir, dependendo da quantidade de inscritos:
 
@@ -103,7 +103,7 @@
 
 5.6. Serão sorteados 2 paises para cada rodada na fase de grupos, não se repetindo nenhum país para as quatro primeiras rodadas e não se repetindo a mesma dupla de países quando houverem mais rodadas.
 
-5.7. Nas fases mata-mata, serão sorteados 3 países para a oitavas, quartas e semifinal e um país para o desempate.
+5.7. Nas fases mata-mata, serão sorteados 2 países para as oitavas, e 3 países para as quartas e semifinal e um país para o desempate.
 
 5.8. Na final e disputa de 3º, serão sorteados 4 países para a disputa normal e um país para desempate.
 
