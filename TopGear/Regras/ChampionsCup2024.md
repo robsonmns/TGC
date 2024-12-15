@@ -13,7 +13,7 @@
 | 03° C | Torneio de Outono | Robson Meireles | 1st |
 | 04º C | Copa TGC | Alexis Sánchez | 1st |
 | 05º C | Snesecidade | Jhonny | 2nd |
-| 06º C | TGC 14 | RonalDan | 4rd |
+| 06º C | TGC 15 | RonalDan | 4rd |
 | 07º C | Torneio de Inverno | Allan Live | 3rd |
 | 08º C | La Liga XIII | Sr. Filho | 1st |
 | 09º C | SnestalGearCup - TGC 10 anos | Arijunino | 6th |
