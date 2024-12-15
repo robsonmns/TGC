@@ -17,11 +17,11 @@
 | 07º C | Torneio de Inverno | Allan Live | 3rd |
 | 08º C | La Liga XIII | Sr. Filho | 1st |
 | 09º C | SnestalGearCup - TGC 10 anos | Arijunino | 6th |
-| 10º C | Torneio de Primavera | ? | ? |
+| 10º C | Torneio de Primavera | Edwin HD | 4th*? |
 
 # **1.1 Ausência/Substituição:** #
 
-Apenas os jogadores acima mencionados, deverão se manifestar quanto ao interesse de participar da Champions Cup 2024. Caso um jogador desista ou não se manifeste até às 18h do dia 15/12/2024, será substituído por outro jogador melhor qualificado no campeonato da vaga do jogador desistente conforme as regras de classificação da CC.
+Apenas os jogadores acima mencionados, deverão se manifestar quanto ao interesse de participar da Champions Cup 2024. Caso um jogador desista ou não se manifeste até às 12h do dia 16/12/2024, será substituído por outro jogador melhor qualificado no campeonato da vaga do jogador desistente conforme as regras de classificação da CC.
 
 # **2 Modelo Confirmação:** #
 
@@ -56,17 +56,17 @@ Apenas os jogadores acima mencionados, deverão se manifestar quanto ao interess
 
 # **5. Cronograma (Previsão):** #
 
-5.1. O Sorteio será realizado no dia 14/12/2024, após confirmação das inscrições;
+5.1. O Sorteio será realizado após confirmação das inscrições;
 
-5.2. A fase de grupos começará 14/12/2024 terá prazo até às 23h do dia 21/12/2024; 
+5.2. A fase de grupos começará 16/12/2024 terá prazo até às 23h59 do dia 22/12/2024; 
 
-5.3. O prazo para realização da Final terá prazo até às 23h do dia 29/12/2024;
+5.3. O prazo para realização da Final terá prazo até às 23h59 do dia 30/12/2024;
 
 **Observação:** As rodadas podem ter o prazo estendido caso a administração julgue necessário.
 
 # **6. Organização e Chaveamento:** #
 
-6.1. Será utilizado o CHALLONGE para chaveamento das partidas do campeonato xxxxxx;
+6.1. Será utilizado o CHALLONGE para chaveamento das partidas https://challonge.com/pt_BR/ChampionsCup2024;
 
 6.2. O campeonato terá uma fase de grupos e os vencedores de cada grupo se enfrentam em uma final de jogo único;
 
@@ -85,6 +85,8 @@ Apenas os jogadores acima mencionados, deverão se manifestar quanto ao interess
 6.5. Serão sorteados 2 paises para cada rodada na fase de grupos, não se repetindo nenhum país para cada rodada;
 
 6.6. Na final, serão sorteados 04 países para a disputa normal e um país para o início de um possível desempate;
+
+6.7. As demais posições de 3° à 10° serão atribuídas automaticamente conforme o desempenho obtido na fase de grupos, sendo os critérios para desempate o confronto direto, pontos conquistados e diferença de pontos; 
 
 6.7. Em caso de empate reinicia-se a ROM e joga a partir do país sorteado para desempate:
 
