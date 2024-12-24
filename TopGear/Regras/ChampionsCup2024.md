@@ -88,7 +88,7 @@ Apenas os jogadores acima mencionados, deverão se manifestar quanto ao interess
 
 6.7. As demais posições de 3° à 10° serão atribuídas automaticamente conforme o desempenho obtido na fase de grupos, sendo os critérios para desempate o confronto direto, pontos conquistados e diferença de pontos; 
 
-6.7. Em caso de empate reinicia-se a ROM e joga a partir do país sorteado para desempate:
+6.8. Em caso de empate reinicia-se a ROM e joga a partir do país sorteado para desempate:
 
 - Para facilitar, utilizando a ROM Top Gear TGC Rom (E), poderão ser selecionadas 8 pistas para o desempate, sendo as 4 primeiras referente ao país desempate e as outras 4 do país seguinte do país desempate.
 - Utilizando a ROM Top Gear (E) [!], seleciona-se o país desempate e joga-se todas as pistas na sequência até que haja um vencedor;
@@ -97,7 +97,7 @@ Apenas os jogadores acima mencionados, deverão se manifestar quanto ao interess
 - Caso se jogue UK e ao final da pista de Stonehenge a partida ainda não tiver um vencedor seguindo os critérios acima, a partida continua a partir de USA;
 - Obs.: Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate para corrigir o grid de largada corretamente. Caso não aja concenso, será o player 1, aquele que tiver terminado na frente na pista anterir ao desempate.
 
-6.8. Durante o campeonato não haverá substituição de jogadores, aqueles que desistirem, receberam w.o para as partidas restantes.
+6.9. Durante o campeonato não haverá substituição de jogadores, aqueles que desistirem, receberam w.o para as partidas restantes.
 
 # **7. Validação das partidas** #
 
