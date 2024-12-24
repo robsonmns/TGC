@@ -17,7 +17,7 @@
 | 07º C | Torneio de Inverno | Allan Live | 3rd |
 | 08º C | La Liga XIII | Sr. Filho | 1st |
 | 09º C | SnestalGearCup - TGC 10 anos | Arijunino | 6th |
-| 10º C | Torneio de Primavera | Edwin HD | 4th*? |
+| 10º C | Torneio de Primavera | Edwin HD | 4th |
 
 # **1.1 Ausência/Substituição:** #
 
