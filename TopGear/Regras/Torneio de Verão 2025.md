@@ -13,11 +13,11 @@
   - 03 - Marlon Fernandes (Camus Kshrc)
   - 04 - Edwin Huaylla (HD Wins)
   - 05 - Leonardo Andrade (Leomarx Games)
-  - 06 - Jurandir Filho (Sr Filho)
+  - 06 - Jurandir Filho (Sr. Filho)
   - 07 - Rafael Lopes (Rafael Diablo)
   - 08 - Robson Meireles (Rob Jax)
-  - 09 - Ari Jr (Arijunino)
-  - 10 - Jhonny (Jhonny)
+  - 09 - Ari Júnior (Arijunino)
+  - 10 - Jhonny Mota (Jhonny)
   - 11 - Luciano Alves (Luciano Bora Zerar)
   - 12 - Albert Matos (Suprem Peruvian)
   - 13 - Luís Cardenas (Luís L.A.O.M)
@@ -27,9 +27,10 @@
   - 17 - Paulo Muniz (Paulo Fox)
   - 18 - Marcel Santana (MMM)
   - 19 - Petter Bruno (JackPoker40)
-  - 20 - Luciano Alves (Luciano Bora Zerar)
+  - 20 - Laynara Souza (UaiLay)
   - 21 - Anderson Policarpo (Policarpo)
   - 22 - Edimar Caetano (Pegasus PSX)
+  - 23 - Reeh Taylor (Fe & Har)
 
 1.2 - Novos participantes poderão se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Facebook.
 
