@@ -9,29 +9,35 @@
 1.1 - O novo modelo de inscrições de campeonatos da TGC terá sempre uma pré-lista de inscritos já validados e ativos conforme os participantes dos campeonatos recentes. Conforme Lista a seguir:
 
   - 01 - Alison Paulo (Jack Maloi)
-  - 02 - Roberto Vasquez (The Mister)
-  - 03 - Marlon Fernandes (Camus Kshrc)
-  - 04 - Edwin Huaylla (HD Wins)
-  - 05 - Leonardo Andrade (Leomarx Games)
-  - 06 - Jurandir Filho (Sr Filho)
-  - 07 - Rafael Lopes (Rafael Diablo)
-  - 08 - Robson Meireles (Rob Jax)
-  - 09 - Ari Jr (Arijunino)
-  - 10 - Jhonny (Jhonny)
-  - 11 - Luciano Alves (Luciano Bora Zerar)
-  - 12 - Albert Matos (Suprem Peruvian)
-  - 13 - Luís Cardenas (Luís L.A.O.M)
-  - 14 - Ronald Daniel (RonalDan)
-  - 15 - Allan Live (Allan Live)
-  - 16 - Javier Portillo (Javier VZLA)
-  - 17 - Paulo Muniz (Paulo Fox)
-  - 18 - Marcel Santana (MMM)
-  - 19 - Petter Bruno (JackPoker40)
-  - 20 - Luciano Alves (Luciano Bora Zerar)
-  - 21 - Anderson Policarpo (Policarpo)
-  - 22 - Edimar Caetano (Pegasus PSX)
+  - 02 - Alexis Sánchez (ChitaMX)
+  - 03 - Brissantt (BR Brissant)
+  - 04 - Roberto Vasquez (The Mister)
+  - 05 - Marlon Fernandes (Camus Kshrc)
+  - 06 - Edwin Huaylla (HD Wins)
+  - 07 - Leonardo Andrade (Leomarx Games)
+  - 08 - Jurandir Filho (Sr Filho)
+  - 09 - Rafael Lopes (Rafael Diablo)
+  - 10 - Robson Meireles (Rob Jax)
+  - 11 - Ari Jr (Arijunino)
+  - 12 - Lenno Coelho (LeNN Miner)
+  - 13 - Jhonny (Jhonny)
+  - 14 - Luciano Alves (Luciano Bora Zerar)
+  - 15 - Albert Matos (Suprem Peruvian)
+  - 16 - Luís Cardenas (Luís L.A.O.M)
+  - 17 - Oscar (Goku)
+  - 18 - Marlon Fernandes (Camus Kshrc)
+  - 19 - Martins Pazos (Schumacher)
+  - 20 - Ronald Daniel (RonalDan)
+  - 21 - Allan Live (Allan Live)
+  - 22 - Javier Portillo (Javier VZLA)
+  - 23 - Paulo Muniz (Paulo Fox)
+  - 24 - Marcel Santana (MMM)
+  - 25 - Petter Bruno (JackPoker40)
+  - 26 - Luciano Alves (Luciano Bora Zerar)
+  - 27 - Anderson Policarpo (Policarpo)
+  - 28 - Edimar Caetano (Pegasus PSX)
 
-1.2 - Novos participantes poderão se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Facebook.
+1.2 - Novos participantes poderão se inscrever através de postagem realizada diretamente nos comentários do vídeo de divulgação do Torneio nas Redes Sociais da Comunidade TGC.
 
     Exemplo:
     Apelido/Nickname: LeomarxGames
@@ -69,15 +75,21 @@
 
 # **4. Cronograma (Previsão):** #
 
-4.1. As inscrições serão aceitas até às 21h do dia 06/01/2025;
+4.1. As inscrições serão aceitas até às 21h do dia 05/01/2025;
 
 4.2. Após confirmação das inscrições, será realizado o sorteio dos países e se inicia a Fase de Grupos;
 
-4.3. A fase de grupo terá prazo de 10 a 14 dias, de acordo com o número de inscritos.
+4.3. Fase de grupo: de 05/01 às 23:59 do dia 14/01;
 
-4.4. Na fase mata-mata (Oitavas, Quartas, Semifinal e Final/Disputa de 3º) todas terão o prazo de 5 dias, finalizando até às 23h59 do prazo divulgado. (Horário de Brasília).
+4.4. Oitavas de Final: de 15/01 às 23:59 do dia 20/01;
 
-4.5 **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário.
+4.5. Quartas de Final: de 21/01 às 23:59 do dia 26/01;
+
+4.6. Semifinal: de 27/01 às 23:59 do dia 02/02;
+
+4.7. Final de Disputa de 3º: de 03/02 às 23:59 do dia 09/02.
+
+4.8 **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário.
 
 # **5. Organização e Chaveamento:** #
 
@@ -89,7 +101,8 @@
 
 - Vitória = 3 pontos;
 - Empate = 1 ponto;
-- Derrota = 0 pontos.
+- Derrota = 0 pontos;
+- W.O = -1 ponto.
 
 5.3.1. A classificação se dará pelo maior número de pontos. Em caso de empate os critérios de desempate serão:
 
@@ -107,7 +120,7 @@
 
 5.6. Serão sorteados 2 paises para cada rodada na fase de grupos, não se repetindo nenhum país para as quatro primeiras rodadas e não se repetindo a mesma dupla de países quando houverem mais rodadas.
 
-5.7. Nas fases mata-mata, serão sorteados 2 países para as oitavas, e 3 países para as quartas e semifinal e um país para o desempate.
+5.7. Nas fases mata-mata, serão sorteados 2 países para as oitavas, 3 países para as quartas e semifinais e um país para o desempate.
 
 5.8. Na final e disputa de 3º, serão sorteados 4 países para a disputa normal e um país para desempate.
 
